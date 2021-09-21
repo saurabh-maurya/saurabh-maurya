@@ -12,4 +12,4 @@
 - 🔭 I’m currently working on *UK Payments* for the organization I'm currently working in
 - 🔭 I'm also working on a *self project* which uses *React Native* and *Spring Boot*
 - 🌱 I’m currently enhancing my skill in *Redux* and improving my knowledge on *Data Structure and Algorithm*
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saurabhmaurya-/) | [saurabh11.maurya@gmail.com]()
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saurabhmaurya-/) | [saurabh11.maurya@gmail.com](mailto:saurabh11.maurya@gmail.com)
