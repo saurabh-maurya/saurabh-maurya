@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Saurabh Maurya 
-### I'm a Software Engineer and I love to work on and explore different domains
+### I'm a Software Engineer and I love to explore different domains
 
 ***Skills:***<br>
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' height='35'/> <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' height='35'/> <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' height='35'/> <img src='https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' height='35'/><br>
