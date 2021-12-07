@@ -7,7 +7,7 @@
 
 
 ***Worked on:***<br>
-<img src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase' height='30'/> <img src='https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white' height='30'/> 
+<img src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white' height='30'/> 
 
 - 🔭 I’m currently working on *UK Payments* as *Software Engineer* **[Pratishthan Software Ventures]**
 - 🔭 I'm also working on a *self project* using *NodeJS*
