@@ -10,6 +10,6 @@
 <img src='https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white' height='30'/> <img src='https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white' height='30'/> 
 
 - 🔭 I’m currently working on *UK Payments* as *Software Engineer* **[Pratishthan Software Ventures]**
-- 🔭 I'm also working on a *self project* using *NodeJS*
-- 🌱 I’m currently improving my knowledge on *Data Structure and Algorithm*
+- 🔭 I'm love to work on backend and new tech stacks
+- 🌱 I’m currently improving my knowledge on *Data an how it impacts developemt process* 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/saurabhmaurya-/) | [saurabh11.maurya@gmail.com](mailto:saurabh11.maurya@gmail.com)
